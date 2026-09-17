@@ -10,7 +10,7 @@ The app allows users to **add, modify, and delete daily activities** while keepi
 * Sleek, simple, and modern design
 * Add, edit, and delete daily routines
 * Track sleep and wake-up times
-* Schedule exercise and yoga sessions
+* Schedule exercise, yoga or other routines
 * Plan reading and learning activities
 * Organize work and productivity-focused tasks
 * Manage daily routines from a single dashboard
